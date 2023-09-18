@@ -1,3 +1,4 @@
+```swift
 func userRegistration(name: String?, email: String?, age: Int?){
 
     // check if user's age is provided
@@ -13,3 +14,4 @@ func userRegistration(name: String?, email: String?, age: Int?){
 }
 
 userRegistration(name: "Adesh", email: "shaha@algonquincollege.com", age: 30)
+```
