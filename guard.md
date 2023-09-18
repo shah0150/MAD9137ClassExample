@@ -1,3 +1,4 @@
+```swift
 var name: String?
 var email: String?
 var age: Int?
@@ -23,3 +24,4 @@ guard let userName = name, let userEmail = email else {
 }
 
 print("Hello, \(userName)! Your email is \(userEmail)")
+```
