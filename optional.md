@@ -1,3 +1,4 @@
+```swift
 var name: String?
 var email: String?
 var age: Int?
@@ -22,3 +23,4 @@ if let userName = name, let userEmail = email{
 } else{
     print("Print fill in your name and email")
 }
+```
